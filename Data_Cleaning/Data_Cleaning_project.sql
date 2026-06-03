@@ -177,6 +177,7 @@ FROM layoffs_staging2
 WHERE total_laid_off IS NULL
 AND percentage_laid_off IS NULL;
 
+-- 4. Remove any Columns
 -- can we delete the columns of the nulls?
 
 DELETE 
