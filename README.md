@@ -1,6 +1,6 @@
 # Tech Layoffs: Data Cleaning & Exploratory Data Analysis (EDA) in MySQL
 
-This repository contains a comprehensive data engineering and data analysis project focused on global tech industry layoffs covering the period from **March 2020 to April 2023** (the peak of the post-pandemic tech sector restructuring). The project is structured into two sequential SQL scripts: the first dedicated to deep raw data transformation and cleaning, and the second focused on extracting business metrics and historical trends.
+This repository contains a comprehensive data engineering and data analysis project focused on global tech industry layoffs covering the period from **March 11, 2020 to March 6, 2023**. The project is structured into two sequential SQL scripts: the first dedicated to deep raw data transformation and cleaning, and the second focused on extracting business metrics and historical trends.
 
 ## Tech Stack
 * **Database Engine**: MySQL v8.0.45 (Ubuntu 24.04 LTS)
